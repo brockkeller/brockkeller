@@ -1,4 +1,7 @@
 ## Hi there 👋
+## My name is Brock Keller, I am a Master of Environmental Management student at Duke University. 
+## Right now, I'm mostly interested in chemical contaminants and how they impact human and ecosystem health. 
+## You can reach me at my LinkedIn page : www.linkedin.com/in/brock-keller-89427a246
 
 <!--
 **brockkeller/brockkeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
